@@ -1,1 +1,2 @@
-# Test-Technical-Online-Bootcamp-DumbWays.id-DEVOPS-ENGINEER
+### 1. Windows 8.1
+### 2.
